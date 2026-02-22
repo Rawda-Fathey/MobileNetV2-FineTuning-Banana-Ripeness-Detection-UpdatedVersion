@@ -38,6 +38,7 @@ The dataset consists of real and synthetic banana images:
 - Image size: 224 × 224
 The dataset is available here:  
 🔗 [Banana Ripeness Dataset on GitHub](https://github.com/luischuquim/BananaRipeness)
+
 Data augmentation techniques include rotation, zoom, shift, brightness adjustment, flipping, and shear transformations.
 
 ---
